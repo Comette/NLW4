@@ -1,4 +1,4 @@
 #rumoaoproximonivel  
 #jornadainfinita  
-#focopraticagrupo
-#neverstplearning
+#focopraticagrupo  
+#neverstoplearning
